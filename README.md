@@ -60,8 +60,34 @@ Encontrou uma falha de segurança? Veja [SECURITY.md](SECURITY.md).
 
 ## O que o plugin traz
 
-- A conexão com o servidor MCP da Vend.AI.
-- Atalhos (skills) em português: `fechamento-do-dia`, `repor-estoque` e `contas-vencidas`.
+Além da conexão com o servidor MCP (que entrega as 88 ferramentas conforme o acesso da sua conexão),
+o plugin traz **17 skills** em português, uma por área, que ensinam a IA a usar as ferramentas
+certas, na ordem certa e com as regras de segurança:
+
+| Skill | Cobre |
+|---|---|
+| `usar-o-vendai` | Mapa geral, o que a IA não faz e como funciona o acesso |
+| `relatorios`, `fechamento-do-dia` | KPIs, vendas, mais vendidos, horários de pico, fluxo de caixa, resumo do dia |
+| `consultar-estoque`, `repor-estoque` | Estoque, variações, produtos parados, reposição com o melhor fornecedor |
+| `gerenciar-produtos` | Produtos, categorias, variações, preço e ajuste de estoque |
+| `pedidos` | Fila, detalhe, criar, alterar, mudar status e cancelar |
+| `clientes-e-fidelidade` | Clientes, endereços, segmentos, pontos, ranking e recompensas |
+| `compras-e-fornecedores` | Fornecedores, custo por fornecedor, pedidos de compra e recebimento |
+| `financeiro`, `contas-vencidas` | Contas a pagar e a receber, fluxo de caixa, aging, baixa e cancelamento |
+| `entregas` | Entregas, entregadores, zonas e taxas |
+| `caixa-e-fiscal` | Sessões de caixa e notas fiscais (só consulta) |
+| `campanhas-e-cupons` | Cupons, rascunho e custo de campanhas (o disparo é no painel) |
+| `atendimento-whatsapp` | Fila de conversas, resumo e transferência para humano |
+| `automacoes` | Rotinas agendadas |
+| `informacoes-da-loja` | Horário, taxa de entrega, pagamentos, adicionais e política de troca |
+
+No Claude Code elas aparecem como `/vendai:<skill>`. Três ferramentas do servidor
+(`build_order`, `request_info` e `guardrail_stats`) servem ao bot de WhatsApp da própria loja e não
+têm skill aqui.
+
+O servidor também oferece os atalhos (prompts) `fechamento_do_dia`, `repor_estoque`,
+`contas_vencidas`, `resumo_da_semana` e `conferir_entregas`, e os recursos `vendai://dashboard`,
+`vendai://catalogo`, `vendai://estoque-baixo` e `vendai://contas-vencidas`.
 
 ## Licença
 

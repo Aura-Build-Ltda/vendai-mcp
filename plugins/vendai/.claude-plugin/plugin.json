@@ -1,7 +1,7 @@
 {
   "name": "vendai",
   "displayName": "Vend.AI",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Use a sua loja Vend.AI dentro do Claude Code: consulte vendas, estoque e finanças, monte pedidos de compra e confira entregas, sob as suas permissões.",
   "author": { "name": "Aura Build Ltda", "url": "https://github.com/Aura-Build-Ltda" },
   "homepage": "https://github.com/Aura-Build-Ltda/vendai-mcp",
