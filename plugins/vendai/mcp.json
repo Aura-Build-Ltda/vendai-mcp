@@ -3,7 +3,7 @@
   "mcpServers": {
     "vendai": {
       "type": "streamable-http",
-      "url": "https://app.vend.ai/mcp",
+      "url": "https://dashboard.homolog.vendai.aurabuild.tech/mcp",
       "extensions": {
         "com.openai": {
           "auth": { "type": "oauth", "client": { "mode": "dcr" } }

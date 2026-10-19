@@ -10,6 +10,10 @@ servidor é o MCP remoto da Vend.AI: você precisa de uma conta com o plano que 
 
 ## Instalar
 
+> **Ambiente de homologação.** Por enquanto o plugin aponta para o servidor de homologação
+> (`https://dashboard.homolog.vendai.aurabuild.tech/mcp`), com dados de teste. Quando o ambiente de
+> produção for publicado, o endereço padrão será trocado numa nova versão.
+
 ### Claude Code
 
 ```bash
