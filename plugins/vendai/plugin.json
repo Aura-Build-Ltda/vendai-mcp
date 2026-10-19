@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "vendai",
+  "version": "0.1.0",
+  "description": "Use a sua loja Vend.AI no Codex e no ChatGPT: vendas, estoque, compras e financeiro, sob as suas permissões.",
+  "author": { "name": "Aura Build Ltda", "url": "https://github.com/Aura-Build-Ltda" },
+  "homepage": "https://github.com/Aura-Build-Ltda/vendai-mcp",
+  "repository": "https://github.com/Aura-Build-Ltda/vendai-mcp",
+  "license": "MIT",
+  "keywords": ["vendai", "mcp", "loja", "estoque", "vendas", "varejo"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Vend.AI",
+        "shortDescription": "Sua loja dentro da IA: vendas, estoque, compras e financeiro",
+        "category": "Productivity",
+        "capabilities": ["Read", "Write"],
+        "defaultPrompt": ["Use o Vend.AI para consultar o meu estoque atual e listar o que está acabando."]
+      }
+    }
+  }
+}

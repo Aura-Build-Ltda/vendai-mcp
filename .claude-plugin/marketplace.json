@@ -1,0 +1,12 @@
+{
+  "name": "vendai",
+  "description": "Vend.AI: use a sua loja dentro do Claude Code (vendas, estoque, compras e financeiro).",
+  "owner": { "name": "Aura Build Ltda" },
+  "plugins": [
+    {
+      "name": "vendai",
+      "source": "./plugins/vendai",
+      "description": "Conecta o Claude Code à sua loja Vend.AI por login (OAuth) e traz atalhos prontos."
+    }
+  ]
+}

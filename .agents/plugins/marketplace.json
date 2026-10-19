@@ -1,0 +1,12 @@
+{
+  "name": "vendai",
+  "interface": { "displayName": "Vend.AI" },
+  "plugins": [
+    {
+      "name": "vendai",
+      "source": { "source": "local", "path": "./plugins/vendai" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
