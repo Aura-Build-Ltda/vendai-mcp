@@ -1,6 +1,6 @@
 ---
 name: compras-e-fornecedores
-description: Gerencia fornecedores e pedidos de compra na Vend.AI: cadastro, custo por fornecedor, criação, acompanhamento, recebimento e cancelamento de pedidos de compra. Use para compras e fornecedores.
+description: "Gerencia fornecedores e pedidos de compra na Vend.AI: cadastro, custo por fornecedor, criação, acompanhamento, recebimento e cancelamento de pedidos de compra. Use para compras e fornecedores."
 ---
 
 Fornecedores:

@@ -1,6 +1,6 @@
 ---
 name: consultar-estoque
-description: Consulta o estoque da loja Vend.AI: quantidade de um produto, produtos acabando, parados, valor em estoque e variações (cor, tamanho). Use para qualquer pergunta sobre estoque.
+description: "Consulta o estoque da loja Vend.AI: quantidade de um produto, produtos acabando, parados, valor em estoque e variações (cor, tamanho). Use para qualquer pergunta sobre estoque."
 ---
 
 - Produto específico: `search_products` (traz preço, estoque e variações) e `check_stock` com o `product_id`.

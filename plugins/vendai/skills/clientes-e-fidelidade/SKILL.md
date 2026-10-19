@@ -1,6 +1,6 @@
 ---
 name: clientes-e-fidelidade
-description: Gerencia clientes e o programa de fidelidade da Vend.AI: busca, cadastro, endereços, segmentos, pontos, ranking e recompensas. Use para assuntos de clientes e fidelidade.
+description: "Gerencia clientes e o programa de fidelidade da Vend.AI: busca, cadastro, endereços, segmentos, pontos, ranking e recompensas. Use para assuntos de clientes e fidelidade."
 ---
 
 Clientes:

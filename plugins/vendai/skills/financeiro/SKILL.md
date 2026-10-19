@@ -1,6 +1,6 @@
 ---
 name: financeiro
-description: Financeiro da loja Vend.AI: contas a pagar e a receber, fluxo de caixa, aging, lançamentos, baixa e cancelamento. Use para dúvidas e operações financeiras.
+description: "Financeiro da loja Vend.AI: contas a pagar e a receber, fluxo de caixa, aging, lançamentos, baixa e cancelamento. Use para dúvidas e operações financeiras."
 ---
 
 Consultas:

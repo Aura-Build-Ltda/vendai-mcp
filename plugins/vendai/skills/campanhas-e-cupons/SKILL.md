@@ -1,6 +1,6 @@
 ---
 name: campanhas-e-cupons
-description: Campanhas de marketing e cupons da Vend.AI: listar, criar rascunho, estimar custo, cancelar e cadastrar cupons. Não dispara campanha. Use para planejar promoções.
+description: "Campanhas de marketing e cupons da Vend.AI: listar, criar rascunho, estimar custo, cancelar e cadastrar cupons. Não dispara campanha. Use para planejar promoções."
 ---
 
 - Ver: `list_campaigns` e `list_coupons`.

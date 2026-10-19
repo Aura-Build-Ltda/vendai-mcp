@@ -1,6 +1,6 @@
 ---
 name: automacoes
-description: Automações agendadas da loja Vend.AI: listar, criar, executar agora, ativar e pausar. Use para rotinas como relatórios diários e reengajamento.
+description: "Automações agendadas da loja Vend.AI: listar, criar, executar agora, ativar e pausar. Use para rotinas como relatórios diários e reengajamento."
 ---
 
 - Ver: `list_automations` (agendamento, ação, status).

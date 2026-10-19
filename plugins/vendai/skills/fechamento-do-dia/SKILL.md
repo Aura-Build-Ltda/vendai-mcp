@@ -1,6 +1,6 @@
 ---
 name: fechamento-do-dia
-description: Faz o fechamento do dia da loja Vend.AI (vendas, pedidos em aberto, caixa, contas e estoque baixo). Use quando o lojista pedir o resumo ou o fechamento do dia.
+description: "Faz o fechamento do dia da loja Vend.AI (vendas, pedidos em aberto, caixa, contas e estoque baixo). Use quando o lojista pedir o resumo ou o fechamento do dia."
 ---
 
 Monte o fechamento de hoje com as ferramentas do servidor `vendai`:

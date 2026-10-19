@@ -1,6 +1,6 @@
 ---
 name: gerenciar-produtos
-description: Cadastra e altera produtos, categorias, variações e preços na Vend.AI, e movimenta o estoque (entrada, baixa, ajuste). Use para cadastrar produto, mudar preço ou corrigir estoque.
+description: "Cadastra e altera produtos, categorias, variações e preços na Vend.AI, e movimenta o estoque (entrada, baixa, ajuste). Use para cadastrar produto, mudar preço ou corrigir estoque."
 ---
 
 Cadastros (liberados no acesso "consulta e cadastros"):

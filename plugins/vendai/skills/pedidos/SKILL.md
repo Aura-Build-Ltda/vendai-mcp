@@ -1,6 +1,6 @@
 ---
 name: pedidos
-description: Consulta e opera pedidos da loja Vend.AI: fila em aberto, detalhe, criação, alteração de entrega/observações, mudança de status e cancelamento. Use para qualquer assunto de pedidos.
+description: "Consulta e opera pedidos da loja Vend.AI: fila em aberto, detalhe, criação, alteração de entrega/observações, mudança de status e cancelamento. Use para qualquer assunto de pedidos."
 ---
 
 - Fila do dia: `pending_orders`. Busca: `list_orders` (status, cliente, período, texto).

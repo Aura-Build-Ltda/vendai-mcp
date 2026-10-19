@@ -1,6 +1,6 @@
 ---
 name: repor-estoque
-description: Sugere e monta a reposição de estoque na Vend.AI (produtos em falta, melhor fornecedor e pedido de compra em rascunho). Use quando o lojista quiser repor mercadoria.
+description: "Sugere e monta a reposição de estoque na Vend.AI (produtos em falta, melhor fornecedor e pedido de compra em rascunho). Use quando o lojista quiser repor mercadoria."
 ---
 
 1. Liste o que repor: `low_stock_products`. Para produtos com variações, use `list_product_variants`

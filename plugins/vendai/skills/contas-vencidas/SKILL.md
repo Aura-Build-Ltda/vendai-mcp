@@ -1,6 +1,6 @@
 ---
 name: contas-vencidas
-description: Lista as contas a pagar e a receber vencidas ou a vencer na Vend.AI e sugere o que priorizar. Use para cobrança e fluxo de caixa.
+description: "Lista as contas a pagar e a receber vencidas ou a vencer na Vend.AI e sugere o que priorizar. Use para cobrança e fluxo de caixa."
 ---
 
 1. Contas vencidas e as dos próximos 7 dias: `list_financial_entries` (filtre por tipo e status) e

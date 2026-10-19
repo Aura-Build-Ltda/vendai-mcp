@@ -1,6 +1,6 @@
 ---
 name: informacoes-da-loja
-description: Informações da loja Vend.AI para responder dúvidas: horário de funcionamento, taxa e prazo de entrega por bairro, formas de pagamento, adicionais e política de troca. Use para perguntas sobre como a loja funciona.
+description: "Informações da loja Vend.AI para responder dúvidas: horário de funcionamento, taxa e prazo de entrega por bairro, formas de pagamento, adicionais e política de troca. Use para perguntas sobre como a loja funciona."
 ---
 
 - Está aberta agora? `business_hours`.

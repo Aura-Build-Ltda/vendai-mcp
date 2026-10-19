@@ -1,6 +1,6 @@
 ---
 name: caixa-e-fiscal
-description: Consulta o caixa e as notas fiscais da Vend.AI: sessões de caixa, resumo por forma de pagamento e dinheiro esperado, e notas emitidas. Somente consulta.
+description: "Consulta o caixa e as notas fiscais da Vend.AI: sessões de caixa, resumo por forma de pagamento e dinheiro esperado, e notas emitidas. Somente consulta."
 ---
 
 - Sessões de caixa: `list_cash_sessions` (abertas ou fechadas).

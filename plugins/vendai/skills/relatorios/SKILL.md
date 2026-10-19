@@ -1,6 +1,6 @@
 ---
 name: relatorios
-description: Relatórios e indicadores da loja Vend.AI: KPIs do dia, vendas por período, mais vendidos, horários de pico, clientes, fluxo de caixa e panorama geral. Use para perguntas sobre desempenho do negócio.
+description: "Relatórios e indicadores da loja Vend.AI: KPIs do dia, vendas por período, mais vendidos, horários de pico, clientes, fluxo de caixa e panorama geral. Use para perguntas sobre desempenho do negócio."
 ---
 
 Escolha a ferramenta pelo que foi perguntado:

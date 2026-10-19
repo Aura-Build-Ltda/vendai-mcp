@@ -1,6 +1,6 @@
 ---
 name: entregas
-description: Entregas da loja Vend.AI: lista, entregadores, zonas e taxas, atribuição e andamento da entrega. Use para acompanhar ou organizar entregas.
+description: "Entregas da loja Vend.AI: lista, entregadores, zonas e taxas, atribuição e andamento da entrega. Use para acompanhar ou organizar entregas."
 ---
 
 - Acompanhar: `list_deliveries` (status) e `list_couriers`.

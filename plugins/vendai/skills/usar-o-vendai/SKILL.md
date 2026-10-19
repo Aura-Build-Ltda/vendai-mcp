@@ -1,6 +1,6 @@
 ---
 name: usar-o-vendai
-description: Guia geral da loja Vend.AI: o que a IA consegue fazer, por onde começar e como as ações críticas funcionam. Use quando o lojista perguntar o que dá para fazer ou não souber por onde começar.
+description: "Guia geral da loja Vend.AI: o que a IA consegue fazer, por onde começar e como as ações críticas funcionam. Use quando o lojista perguntar o que dá para fazer ou não souber por onde começar."
 ---
 
 Você está conectado à loja do lojista pelo servidor MCP `vendai`, com as permissões do usuário dele.

@@ -1,6 +1,6 @@
 ---
 name: atendimento-whatsapp
-description: Atendimento no WhatsApp da loja Vend.AI: fila de conversas, resumo de uma conversa e transferência do bot para um atendente humano. Use para acompanhar o atendimento.
+description: "Atendimento no WhatsApp da loja Vend.AI: fila de conversas, resumo de uma conversa e transferência do bot para um atendente humano. Use para acompanhar o atendimento."
 ---
 
 - Visão geral por status: `whatsapp_overview`. Fila: `list_conversations` (status).
